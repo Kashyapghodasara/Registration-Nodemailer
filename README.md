@@ -1,6 +1,6 @@
 # Registration-Email--Nodemailer
 
-#### A full-stack email authentication app built with Node.js, Express, and Nodemailer. Users can register, log in, and log out with real-time email notifications. Emails are sent instantly upon signup and login, using SMTP via Nodemailer. Frontend is custom-designed and connected with Axios for smooth API handling.
+>> A full-stack email authentication app built with Node.js, Express, and Nodemailer. Users can register, log in, and log out with real-time email notifications. Emails are sent instantly upon signup and login, using SMTP via Nodemailer. Frontend is custom-designed and connected with Axios for smooth API handling.
 
 ---
 ### Day 1 - Sunday - 27-04-2025
