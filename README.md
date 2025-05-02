@@ -20,3 +20,20 @@
 ### Day 4 - Friday - 02-05-2025
     - Setup Nodemailer and Create Less Secure Password
     - Testing The App
+---
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](Images/Home.PNG)
+
+### 🔐 Signup Page
+![Signup](Images/Signup.PNG)
+
+### 🔑 Login Page
+![Login](Images/Login.PNG)
+
+### 📩 Signup Email Received
+![Signup Email](Images/Email%20Received.PNG)
+
+### 📥 Login Email Received
+![Login Email](Images/Login%20Email%20Received.PNG)
