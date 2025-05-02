@@ -23,14 +23,14 @@
 ---
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home](Images/Home.PNG)
-
 ### 🔐 Signup Page
 ![Signup](Images/Signup.PNG)
 
 ### 🔑 Login Page
 ![Login](Images/Login.PNG)
+
+### 🏠 Home Page
+![Home](Images/Home.PNG)
 
 ### 📩 Signup Email Received
 ![Signup Email](Images/Email%20Received.PNG)
